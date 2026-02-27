@@ -15,5 +15,3 @@ This intensive program focused on modern software development paradigms, specifi
 * [cite_start]**Workflow Automation:** Designing efficient business processes using the Ultia platform. [cite: 5, 9]
 * [cite_start]**Enterprise Solutions:** Understanding how low-code platforms scale in corporate environments like Turkcell. [cite: 5, 7]
 
-### 🖼 Certificate Preview
-![Codeless and Lowcode Certificate](codeless-certificate.png)
