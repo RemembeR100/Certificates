@@ -6,12 +6,12 @@ This repository serves as a verified record of my learning journey, technical sk
 
 ## 🎖 Featured Certificate: Codeless & Lowcode Training Program
 
-[cite_start]**Issued by:** Turkcell Academy, Ultia, and Istanbul Topkapı University 
-[cite_start]**Recipient:** Kaan Samet Akgeyik [cite: 4]
+**Issued by:** Turkcell Academy, Ultia, and Istanbul Topkapı University 
+**Recipient:** Kaan Samet Akgeyik
 
 ### 📝 Program Overview
 This intensive program focused on modern software development paradigms, specifically:
-* [cite_start]**Rapid Application Development:** Building functional apps with minimal manual coding. 
-* [cite_start]**Workflow Automation:** Designing efficient business processes using the Ultia platform. [cite: 5, 9]
-* [cite_start]**Enterprise Solutions:** Understanding how low-code platforms scale in corporate environments like Turkcell. [cite: 5, 7]
+  **Rapid Application Development:** Building functional apps with minimal manual coding. 
+  **Workflow Automation:** Designing efficient business processes using the Ultia platform.
+  **Enterprise Solutions:** Understanding how low-code platforms scale in corporate environments like Turkcell.
 
